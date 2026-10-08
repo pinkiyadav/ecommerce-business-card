@@ -12,3 +12,7 @@
 - `cart.php`, `pcheckout.php`: cart and order creation (transaction)
 - `database/`: schema, seed, duplicate sku query added 2 methods
 - `ANSWERS.md`: written answers for Parts 1, 4, 5
+
+## Project Screenshot
+
+![E-Commerce Business Card](screenshot/demo.png)
